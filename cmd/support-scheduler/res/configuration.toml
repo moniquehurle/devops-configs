@@ -5,7 +5,7 @@ LogLevel = 'INFO'
 [Service]
 BootTimeout = 30000
 ClientMonitor = 15000
-CheckInterval = '10s'
+CheckInterval = '20s'
 Host = 'localhost'
 Port = 48085
 Protocol = 'http'
